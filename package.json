@@ -1,18 +1,50 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@zibuthe7j11/amet-provident-dolorem",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "zibuthe7j",
   "license": "MIT",
+  "keywords": [
+    "length",
+    "color",
+    "mocha",
+    "visual",
+    "preprocessor",
+    "trim",
+    "link",
+    "performant",
+    "crypt",
+    "cache",
+    "fastcopy",
+    "typed array",
+    "import",
+    "configurable",
+    "symbol",
+    "xterm",
+    "redux-toolkit",
+    "extension",
+    "flag",
+    "[[Prototype]]",
+    "debug",
+    "sanitize",
+    "ast",
+    "once",
+    "warning",
+    "utilities"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/zibuthe7j11/amet-provident-dolorem.git"
   },
+  "homepage": "https://github.com/zibuthe7j11/amet-provident-dolorem/#readme",
+  "bugs": {
+    "url": "https://github.com/zibuthe7j11/amet-provident-dolorem/issues"
+  },
+  "packageManager": "yarn@4.1.1",
   "dependencies": {
-    
+    "@landmineaknpm/aliquid-minus-voluptatem": "^1.0.0",
+    "@ptkhanh94npm/ab-quaerat-animi": "^1.0.0",
+    "@rabiepenpm/libero-nisi-voluptatem": "^1.0.0"
   }
 }
